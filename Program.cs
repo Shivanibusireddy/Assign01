@@ -64,16 +64,16 @@ do{
                  var ans = Console.ReadLine();
                  switch(ans) {
                      case "X8": 
-                     Console.WriteLine($" Discount for the X8 phone is: {discountcal(price[0])} \n");
+                     Console.WriteLine($" Discount for the X8 model is: {discountcal(price[0])} \n");
                      break;
                      case "FT": 
-                     Console.WriteLine($" Discount for the X8 phone is: {discountcal(price[1])}");
+                     Console.WriteLine($" Discount for the FT model is: {discountcal(price[1])}");
                      break;
                      case "X9": 
-                     Console.WriteLine($" Discount for the X8 phone is: {discountcal(price[2])}");
+                     Console.WriteLine($" Discount for the X9 model is: {discountcal(price[2])}");
                      break;
                      case "PT": 
-                     Console.WriteLine($" Discount for the X8 phone is: {discountcal(price[3])}");
+                     Console.WriteLine($" Discount for the PT model is: {discountcal(price[3])}");
                      break;
                      
 
